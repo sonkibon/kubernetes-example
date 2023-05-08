@@ -1,0 +1,23 @@
+{
+  "name": "kubernetes-example",
+  "version": "1.0.0",
+  "description": "Kubernetes sample manifest repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonkibon/kubernetes-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonkibon/kubernetes-example/issues"
+  },
+  "homepage": "https://github.com/sonkibon/kubernetes-example#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.6.3",
+    "@commitlint/config-conventional": "^17.6.3"
+  }
+}
